@@ -8,7 +8,7 @@ It requires C++20 supported compiler.
 ## What's difference from `siv::YesNo` ?
 
 `siv::YesNo` provides the named constants `Yes` and `No` .
-Veiler.OpaqueBool allows to select the pair of named constants from `yes` / `no` , `enable` / `disable` , and `valid` / `invlaid` .
+Veiler.OpaqueBool allows to select the pair of named constants from `yes` / `no` , `enable` / `disable` , and `valid` / `invalid` .
 And if you want to use other names, you can change them.
 
 ## Usage
